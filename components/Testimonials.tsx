@@ -6,7 +6,7 @@ export default function Testimonials() {
     <div className="mt-10 space-y-5 flex flex-col items-center justify-center">
     <h1 className="text-xl font-bold">What our Students are Saying</h1>
 
-    <div className="grid grid-cols-2 p-2">
+    <div className="grid grid-cols-2 p-2 md:grid-cols-4">
         <TestimonItem
         name='Alex Usman'
         title='Automation Specialist'
