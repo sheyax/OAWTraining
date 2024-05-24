@@ -18,7 +18,7 @@ intensity={600}/>
 <ModuleItem
 text='Mechatronics'
 color='green'
-intensity={400}/>
+intensity={900}/>
 <ModuleItem
 text='Spot Welding'
 color='green'

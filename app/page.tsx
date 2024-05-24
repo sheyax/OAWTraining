@@ -1,6 +1,7 @@
 import Banner from "@/components/Banner";
 import Intro from "@/components/Intro";
 import Modules from "@/components/Modules";
+import Testimonials from "@/components/Testimonials";
 import Image from "next/image";
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
       <Banner/>
       <Intro/>
       <Modules/>
+      <Testimonials/>
     </main>
   );
 }
