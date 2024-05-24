@@ -18,7 +18,7 @@ export default function TestimonItem({name, title, comment}:Props) {
             </div>
         </div>
 <div className="px-5 text-sm">
-<p>   "{comment}"
+<p>  {comment}
             </p>
 
 </div>
