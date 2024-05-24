@@ -9,7 +9,7 @@ export default function TestimonItem({name, title, comment}:Props) {
   return (
     <div className="bg-gray-200 rounded-md p-2 h-42 mx-2 my-2">
         <div className='flex p-2 space-x-2'>
-            <div className=" h-12 w-12 rounded-full bg-green-800">
+            <div className=" h-[50px] w-[50px] rounded-full bg-green-800">
 
             </div>
             <div>
