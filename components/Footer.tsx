@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-green-900">
 
-<div className="grid grid-cols-4 p-2 mx-12 space-x-10">
+<div className="grid grid-cols-4 p-2 mx-8 space-x-10">
 
     <div className="space-y-2 p-2">
         <h1 className='text-white font-bold text-2xl'>OAW <p className='text-sm text-green-100'>Automobile Training</p></h1>
