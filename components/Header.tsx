@@ -21,7 +21,7 @@ export default function Header() {
         </div>
 
         <div className="md:space-x-5 text-green-800 md:inline-block hidden">
-            <Link href="#">About</Link>
+            <Link href="/about">About</Link>
             <Link href="#">Program</Link>
             <Link href="#">Facilities</Link>
         </div>
